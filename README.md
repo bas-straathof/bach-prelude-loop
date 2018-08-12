@@ -10,7 +10,7 @@ The technical requirements of this piece of coding are:
   - [Overtone](https://github.com/overtone/overtone)
   - [Java Virtual Machine](https://en.wikipedia.org/wiki/Java_virtual_machine)
 
-The [core program](../tree/master/src/bach-prelude-loop) can be run via a REPL in the Terminal, or via an IDE such as [Light Table](http://lighttable.com/).
+The [core program](/src/bach-prelude-loop) can be run via a REPL in the Terminal, or via an IDE such as [Light Table](http://lighttable.com/).
 
 ## License
 
