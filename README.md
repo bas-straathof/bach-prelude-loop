@@ -16,4 +16,4 @@ The [core program](../tree/master/src/bach-prelude-loop) can be run via a REPL i
 
 Copyright © 2018
 
-Distributed under the [Eclipse Public License](../tree/master/LICENSE.md).
+Distributed under the [Eclipse Public License](LICENSE.md).
